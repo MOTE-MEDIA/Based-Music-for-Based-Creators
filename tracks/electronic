@@ -2,9 +2,99 @@
   {
     "title": "the eleventh wave",
     "artist": "TONCHU",
-    "genre": "drum and bass",
+    "genre": "electronic",
     "tags": ["aggressive", "spacey"],
     "url": "https://archive.org/details/the-eleventh-wave",
+    "license": "CC0",
+  }
+
+  {
+    "title": "bounce protocol Ω",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["aggressive", "spacey"],
+    "url": "https://archive.org/details/bounce-protocol",
+    "license": "CC0",
+  }
+
+  {
+    "title": "breathing techniques",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["chill", "spacey", "deep bass"],
+    "url": "https://archive.org/details/breathing-techniques",
+    "license": "CC0",
+  }
+
+  {
+    "title": "crash up",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["aggressive", "grimey", "intense"],
+    "url": "https://archive.org/details/crash-up",
+    "license": "CC0",
+  }
+
+  {
+    "title": "darkened castle",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["dark", "fantasy", "synth"],
+    "url": "https://archive.org/details/darkened-castle",
+    "license": "CC0",
+  }
+
+  {
+    "title": "dragons clear our path",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["intense", "guitar"],
+    "url": "https://archive.org/details/dragons-clear-our-path",
+    "license": "CC0",
+  }
+
+  {
+    "title": "happy Beltane",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["spacey", "deep bass"],
+    "url": "https://archive.org/details/happy-beltane",
+    "license": "CC0",
+  }
+
+  {
+    "title": "innerversal",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["spacey", "chill"],
+    "url": "https://archive.org/details/innerversal",
+    "license": "CC0",
+  }
+
+  {
+    "title": "is it based",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["grimey", "intense"],
+    "url": "https://archive.org/details/is-it-based",
+    "license": "CC0",
+  }
+
+  {
+    "title": "levitation",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["deep bass", "spacey", "intense"],
+    "url": "https://archive.org/details/levitation-song",
+    "license": "CC0",
+  }
+
+  {
+    "title": "obelisk",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["deep bass", "spacey"],
+    "url": "https://archive.org/details/obelisk-song",
     "license": "CC0",
   }
 ]
