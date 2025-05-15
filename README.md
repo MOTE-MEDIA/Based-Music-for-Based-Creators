@@ -5,13 +5,13 @@ Use anything here in your own music, videos, games, podcasts, or other creative 
 
 ## 💽 How to Use
 Browse the `tracks/index.json` file or curated playlists.  
-All music is hosted on [Internet Archive](https://archive.org) and is 100% CC0.
+All music is hosted onchain via [Transient Labs](https://www.transient.xyz/) and is 100% CC0.
 
 ## 🚀 Submit Your Music
-Want to contribute? Submit a pull request with metadata + a link to your Archive.org upload.
+Want to contribute? Submit a pull request with metadata + a link to your Transient Labs mint/upload.
 
 ## 🎧 Start Listening
-You can preview any track directly from the `.mp3` links in the JSON.
+You can preview and download any track directly from the `.mp3` links in the JSON.
 
 ---
 Stay based.
