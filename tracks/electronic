@@ -124,4 +124,22 @@
     "url": "https://www.transient.xyz/mint/wavy-song",
     "license": "CC0",
   }
+
+ {
+    "title": "into the now",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["sax", "upbeat"],
+    "url": "https://www.transient.xyz/mint/into-the-now",
+    "license": "CC0",
+  }
+
+ {
+    "title": "it's rainy out there",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["chill", "future", "synth"],
+    "url": "https://www.transient.xyz/mint/its-rainy-out-there",
+    "license": "CC0",
+  }
 ]
