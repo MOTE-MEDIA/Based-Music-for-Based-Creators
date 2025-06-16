@@ -178,4 +178,13 @@
     "url": "https://www.transient.xyz/mint/cloud-city-song",
     "license": "CC0",
   }
+
+ {
+    "title": "arcade daze",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["retro", "future", "spacey"],
+    "url": "https://www.transient.xyz/mint/arcade-daze",
+    "license": "CC0",
+  }
 ]
