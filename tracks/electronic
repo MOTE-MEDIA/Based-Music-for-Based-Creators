@@ -196,4 +196,13 @@
     "url": "https://www.transient.xyz/mint/immortal-combat",
     "license": "CC0",
   }
+
+ {
+    "title": "noise",
+    "artist": "TONCHU",
+    "genre": "electronic",
+    "tags": ["spacey", "synth"],
+    "url": "https://www.transient.xyz/mint/noise-song",
+    "license": "CC0",
+  }
 ]
